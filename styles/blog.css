@@ -1,5 +1,20 @@
 div{
     background-color: tomato;
     padding: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 15px aqua;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-size: justify;
+    /* padding: ; */
+
+}
+.choto{
+    height: 200px;
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
